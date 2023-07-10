@@ -7,11 +7,11 @@
   <h2> <strong> Planning to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=mongodb&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,python,r,c,figma,spring,java,postgres,postman,git,latex,materialui&perline=6" alt="my skills">
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts,js,python,r,c,figma,spring,java,postgres,postman,git,latex,materialui&perline=6" alt="my skills">
   <h2> <strong> Connect With Me </strong></h2>
 </br>
   <div align="center">
-  <a href="https://www.linkedin.com/in/dariomonopoli-dev/">
+  <a href="https://www.linkedin.com/in/dario-monopoli/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
