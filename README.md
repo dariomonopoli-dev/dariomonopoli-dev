@@ -7,7 +7,7 @@
   <h2> <strong> Planning to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=mongodb&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts,js,python,r,c,figma,spring,java,postgres,postman,git,latex,materialui&perline=6" alt="my skills">
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts,js,python,r,c,cpp,flutter,spring,java,postgres,postman,git,latex,materialui,figma&perline=6" alt="my skills">
   <h2> <strong> Connect With Me </strong></h2>
 </br>
   <div align="center">
