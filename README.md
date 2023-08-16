@@ -18,9 +18,9 @@
 </br>
 <div align="center">
   <h2><strong>📊 GitHub Stats</strong></h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=dariomonopoli-dev&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&icon_color=39d353" alt="GitHub Stats" width="400px"><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dariomonopoli-dev&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&icon_color=39d353" alt="GitHub Stats" width="400px"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariomonopoli-dev&theme=monokai&hide_border=false" alt="GitHub Streak Stats" width="400px"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariomonopoli-dev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400px">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dariomonopoli-dev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400px">
 </div>
 
 
