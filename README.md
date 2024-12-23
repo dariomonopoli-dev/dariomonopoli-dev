@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=cbcbcb&vCenter=true=true&width=435&lines=Hello%2C+I+am+Dario.;Welcome+to+my+profile!" align="middle" lt="I'm Dario" />
 <div align="center">
   <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts,js,python,r,c,cpp,flutter,spring,java,postgres,postman,monodb,git,latex,materialui,figma&perline=6" alt="my skills">
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts,js,python,r,c,cpp,spring,java,postgres,postman,mongodb,git,latex,materialui,figma&perline=6" alt="my skills">
   <h2> <strong> Connect With Me </strong></h2>
 </br>
   <div align="center">
